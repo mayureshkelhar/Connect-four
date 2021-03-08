@@ -1,12 +1,12 @@
 # Connect Four
 
-# You can it game on terminal
+-> You can run it game on terminal
 
-# Require: Java 8 and above
+-> Require: Java 8 and above
 
-# Have to run Main.java
+-> Have to run Main.java
 
-# Enjoy and have a fun
+-> Enjoy and have a fun
 
 __Description__
 
