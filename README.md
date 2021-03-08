@@ -10,9 +10,6 @@
 
 __Description__
 
-Your mission, should you choose to accept it, is to implement a Connect Four game.
-https://urldefense.com/v3/__https://en.wikipedia.org/wiki/Connect_Four__;!!GF_29dbcQIUBPA!gjC27rCicf_3RlYeGRhzFPIYXdTabsD7cOMDSGnS2oqVdz5sMkZo4mnz5qobfyo$ [en[.]wikipedia[.]org]
-
 1. The vertical board is composed of seven columns and six rows. Initially, all positions are empty.
 2. Players introduce discs at the top of the columns. The disc falls to the bottom of the column if the column is empty. Future discs introduced to the same column will stack over previous ones.
 3. It is a two-person game. Player 1 uses red ('R') and Player 2 uses green ('G'). Players take alternate turns, inserting one disc each time.
